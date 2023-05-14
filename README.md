@@ -19,8 +19,9 @@ Once the contract is deployed, you can interact with it by calling the Burn and 
 
 Now scroll up, just below Account you can see list of addresses written in hexadecimal, click that, you can see a list of addreesses in the dropdown menu. Just copy one of them and paste that in the box near the balances. And click on balances, it will show you the current balance. Which should be 0. Since no transactions have been done so far. Now, expand the mint function and paste the same address in the address field and enter the value you want to increment the balance address with, say 500. Click on transact. Now click on balances, you will see Balance have been incremented to 500 tokens. Now click on TotSupl, it will also be now 500. Now expand the burn function and repeat this process, this time you will see balances have been deducted by the same amount that you have entered in the value field of the burn function. Same should happen with the TotSupl variable. Now enter an amount in the value section of the burn function which is more than the value stored in balances. Click on transact, you will see this time transaction won't happen this time. And TotSupl and balances have the same value as before. This tells you can't burn tokens greater than your account balance. Which is pretty obvious during any transaction.
 
-<h2>Authors</h2>
+<h2>Author</h2>
 Anjan Gorai
+
 email: aneriomcpronier@gmail.com
 
 <h2>License</h2>
