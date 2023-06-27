@@ -5,6 +5,9 @@ This Solidity program is a simple "Token creation" program that demonstrates the
 <h2>Description</h2>
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This program has a contract named MyToken. The contract has a token with 2 most basic functions- Burn and Mint. Mint function will increment token amount in an account balance address while burn function will do the opposite. This program serves as a simple and straightforward Token creation, and can be used as a stepping stone for more complex tokens in the future.
 
+<h2> Video Description</h2>
+https://www.loom.com/share/cef1bc162c7e4264b7c2744324828def?sid=02241ffb-7378-4b64-a43f-eb1eec555c67
+
 <h2>Getting Started</h2>
 <h3>Executing program</h3>
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
